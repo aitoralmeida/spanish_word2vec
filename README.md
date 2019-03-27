@@ -17,5 +17,16 @@ word_vectors = KeyedVectors.load('complete.kv', mmap='r')
 If you use our models in you programs or research, please use the following citation (other citation stiles available at Zenodo):
 ```
 Aitor Almeida, & Aritz Bilbao. (2018). Spanish Word2Vec Model (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/10.5281/zenodo.11554733
+
+Bilbao-Jayo, A., & Almeida, A. (2018). Automatic political discourse analysis with multi-scale convolutional neural networks and contextual data. International Journal of Distributed Sensor Networks, 14(11), 1550147718811827.
 ```
+
+## Other datasets
+
+Take a look at our other datasets:
+* City4Age Behaviour dataset: https://zenodo.org/record/2602652#.XJtz26SkGUl
+* Spanish 3B words Word2Vec Embeddings: https://github.com/aitoralmeida/spanish_word2vec
+*  Political party and candidate tweets for the campaign period of the 2016 Spanish general election: https://github.com/aitoralmeida/spanish_general_election_2016
+*  Political party and candidate tweets for the campaign period of the 2015 Spanish general election: https://github.com/aitoralmeida/spanish_general_election_2015
+* Tweets for the campaign period of the 2014 European Parliament election: https://github.com/aitoralmeida/european_parliament_election_2014
 
