@@ -14,7 +14,7 @@ To load the KeyedVectors use:
 word_vectors = KeyedVectors.load('complete.kv', mmap='r')
 ```
 
-If you use our models in you programs or research, please use the following citation (other citation stiles available at Zenodo):
+If you use our models in you programs or research, please use the following citation:
 ```
 Aitor Almeida, & Aritz Bilbao. (2018). Spanish Word2Vec Model (Version 1.0) [Data set]. Zenodo. http://doi.org/10.5281/10.5281/zenodo.11554733
 
